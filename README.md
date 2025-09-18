@@ -1,5 +1,5 @@
 # Autonomous-Maze-Solving-Robot-
-Development of an Autonomous Maze Solving Robot implemented on a turtlebot, leveraging computer vision and machine learning, and path palnning and search algorithms. 
+This project features an autonomous robot designed to solve mazes by reading signs on the walls and navigating to the end goal. The robot leverages machine vision algorithms, machine learning for sign recognition, and advanced path planning and search algorithms to efficiently navigate complex environments.
 
 Georgia Institute of Technology: Team 21: Sagar Desai and Eemil Harkonen 
 
