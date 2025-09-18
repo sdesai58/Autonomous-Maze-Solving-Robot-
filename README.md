@@ -9,6 +9,16 @@ Georgia Institute of Technology: Team 21: Sagar Desai and Eemil Harkonen
 The machine vision algorithm was to be able to recognize the directionl signs and accurately label them according to their designed motion. There were two left signs (curved arrow and steaight arrow), two right signs (curved arrow and straigth arrow) and U-Turn (Denoted as a Stop Sign and U-Turn Sign) and an end goal of a Star. The objective was to navigate the maze, scan each sign using the onboard camera and classify it, and produce the desired motion and direction. Using K-Nearest-Neighbors Algorithm (KNN), we were able to classsify each signed with ~90% accuracy. The machine vision pipeline had to be lightweight due to the hardware limitations of the raspberry pi on board and directing the processing on the computer served IoT challenges such as increased traffic from the others.
 
 
+Accuracy: 0.9833333333333333
+Confusion Matrix:
+[[ 8.  1.  0.  0.  1.  0.]
+ [ 0. 40.  0.  0.  0.  0.]
+ [ 0.  0. 40.  0.  0.  0.]
+ [ 0.  0.  0. 10.  0.  0.]
+ [ 0.  0.  0.  0. 10.  0.]
+ [ 0.  0.  0.  0.  0. 10.]]
+
+
 ## Demo
 
 
