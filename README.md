@@ -14,6 +14,9 @@ The machine vision algorithm was to be able to recognize the directionl signs an
 
 
 
+<img width="1840" height="1121" alt="Screenshot 2025-09-18 at 3 15 52 PM" src="https://github.com/user-attachments/assets/de58f439-11d0-431c-b8b0-08ca8319f6a3" />
+
+
 ## Demo
 
 
